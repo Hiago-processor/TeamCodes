@@ -1,3 +1,4 @@
+#vc é fd manin ;D
 # db/migrate/20240101000000_create_users.rb
 class CreateUsers < ActiveRecord::Migration[7.1]
   def change
